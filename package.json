@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AfanasenkoDmitriy/ajs-oop.git"
+    "url": "git+https://github.com/AfanasenkoDmitriy/ajs-oop2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AfanasenkoDmitriy/ajs-oop/issues"
+    "url": "https://github.com/AfanasenkoDmitriy/ajs-oop2.git"
   },
   "homepage": "https://github.com/AfanasenkoDmitriy/ajs-oop#readme",
   "devDependencies": {
